@@ -1,0 +1,34 @@
+﻿The Future                 
+Sample Data Set
+A Sample PDF
+It’s portable!
+
+
+Header 1
+Normal text is Proxima Nova 11 point. Wayfarers shabby chic butcher distillery try-hard YOLO Austin, freegan 90's mustache meh Schlitz Pinterest raw denim. Leggings semiotics seitan letterpress Brooklyn, aesthetic direct trade hella. Banh mi Vice chia fingerstache paleo photo booth McSweeney's dreamcatcher fixie. Drinking vinegar Pitchfork synth, skateboard blog 8-bit tofu Tonx. Sartorial fixie artisan, locavore meggings Echo Park Intelligentsia hoodie shabby chic deep v kitsch narwhal wayfarers slow-carb Marfa. Sartorial letterpress put a bird on it iPhone. Portland Austin post-ironic VHS tote bag cred sartorial church-key McSweeney's.
+
+
+Header 2 
+Neutra Schlitz salvia authentic, street art ugh pickled American Apparel Intelligentsia Godard Carles organic High Life brunch. Taxidermy leggings cold-pressed Pinterest church-key. Post-ironic put a bird on it hella VHS, hoodie cliche aesthetic Wes Anderson.
+
+
+
+
+Header 1
+Header 2:
+* Bullet style
+* Scenester master cleanse 3 
+* occupy mustache Neutra distillery 
+* vinyl literally small batch gluten-free
+
+
+H3s look like this:
+And finally, the H4 style looks this way:
+* exp
+* Scenester master cleanse 3 
+* vinyl literally small batch gluten-free
+
+
+
+
+Thanks.
