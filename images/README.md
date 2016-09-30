@@ -1,8 +1,9 @@
 # Credits
 
-All images came from Flicr. Individual image credits are listed below.
+All images came from Flickr. Individual image credits are listed below.
 
 | File | Size | Author | Link |
+|------|------|--------|------|
 | plane.jpg | 3.5MB | 湯小沅 | [Link](https://www.flickr.com/photos/zx4142/29901824222/in/photolist-MyjEzu-LLZsDe-MAZmNX-MJmTMF-MJmQ4i-MJmKYV-MJmH2T-MAYYui-Myj7Ks-MhnqKy-MAYGmg-MJmrqc-LLYNdB-MFkQkS-LLSEp3-MJm7jg-MhmQG3-MJkTEP-MFkr8j-LLYp2X-MyihJC-Myiddy-LLS9yS-LLS8EY-MAXUGa-MAXUip-MyhX95-MAXMFr-MAXJ8z-MFjWoW-MFjSUw-LLRJNA-MJk6jc-MFjGGN-MJk5qD-MyhwxG-MhkRPL-MyhmFC-LLXw68-LLRnaf-LLRh1N-MJjE66-Myh3Zf-LLR74o-MygSuY-MFiU9C-MAWTrM-LLWUwH-MAWCqp-LLWHw6) |
 | portrait.jpg | 5.3MB | Katherine Donovan | [Link](https://www.flickr.com/photos/136317982@N05/29900952342/in/photolist-Myfcp5-MyfbSU-MyfbFw-MyfboC-LLNZfs-Myfb5w-MyfaN9-MyfatS-MyfabY-Myf9Sw-LLNUCG-LLNTTW-LLVgbH-Myf5pd-LLVfWe-LLVeSv-LLNRoW-LLNQRJ-LLNPjA-MJhHq6-LLNP4A-LLNM2Q-MAV5WV-MJhAaK-MyeRVW-MJhyvT-MJhqSM-MFgh8y-MAUXfT-MFgFVy-LLUKdM-Myesku-MJh8MV-MyehHd-MhhCAN-MFg8Nh-Mye8KU-LLUddR-MJgLEz-LLMWFb-MhhjNU-MFfXwq-MFfW7S-MhhemS-Mhhb5w-MydNpE-MydH99-MhgWid-MhgSjb-MATLfD) |
 | city_large.jpg | 7MB | Tim Bond | [Link](https://www.flickr.com/photos/teambond/30014552865/in/photolist-MJhqSM-MFgh8y-MAUXfT-MFgFVy-LLUKdM-Myesku-MJh8MV-MyehHd-MhhCAN-MFg8Nh-Mye8KU-LLUddR-MJgLEz-LLMWFb-MhhjNU-MFfXwq-MFfW7S-MhhemS-Mhhb5w-MydNpE-MydH99-MhgWid-MhgSjb-MATLfD-LLTBQT-MATAsH-MJfQM4-MATs7e-MJfJVV-MJfFnT-MhgfEL-MFeM67-MAT9KR-MycL63-MJfwaK-Mhg4qm-LLT24t-Mhg1MW-LLLCzJ-MFextY-MFep6q-MJf4ng-LLLmM1-MASCuF-MhfsXo-MASvAR-LLLa9G-LLSkGx-MybQE5-MJey2H) |
